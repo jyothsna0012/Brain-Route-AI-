@@ -1,0 +1,12 @@
+{
+  "name": "brainroute-ai",
+  "version": "1.0.0",
+  "description": "AI-powered personalized course pathways using IBM watsonx.ai",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
