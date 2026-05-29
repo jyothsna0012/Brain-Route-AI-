@@ -6,6 +6,7 @@
 BrainRoute AI is an AI-powered personalized learning pathway generator built using IBM watsonx Prompt Lab and Granite model.
 
 ## Platform Used
+- IBM watsonx Orchestrate
 - IBM watsonx.ai Prompt Lab
 - Granite Foundation Model
 - IBM Cloud Deployment Space
