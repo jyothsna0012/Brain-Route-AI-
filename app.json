@@ -1,0 +1,20 @@
+
+{
+  "name": "BrainRoute AI",
+  "description": "AI-powered personalized learning assistant developed using IBM watsonx Orchestrate and IBM Granite models. It helps students discover personalized career pathways, learning roadmaps, course recommendations, and project guidance based on their interests and goals.",
+  "repository": "https://github.com/yourusername/BrainRoute-AI",
+  "website": "https://yourusername.github.io/BrainRoute-AI",
+  "keywords": [
+    "IBM Cloud",
+    "watsonx Orchestrate",
+    "IBM Granite",
+    "Agentic AI",
+    "AI Assistant",
+    "Education",
+    "Career Guidance",
+    "Learning Roadmap"
+  ],
+  "author": "Jyothsna",
+  "stack": "container"
+}
+
